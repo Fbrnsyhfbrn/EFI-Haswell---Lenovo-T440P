@@ -65,15 +65,18 @@ Jika tidak, iGPU akan terdeteksi hanya 5MB yang menyebabkan grafis bermasalah.
 
 - [OpenCore Legacy Patcher (OCLP)](https://dortania.github.io/OpenCore-Legacy-Patcher/)  
 - [ProperTree](https://github.com/corpnewt/ProperTree)  
-- [Hackintool](https://github.com/headkaze/Hackintool)  
-
+- [Hackintool](https://github.com/headkaze/Hackintool)
+- [Installer Offline](https://github.com/yusufklncc/Hackintosh-for-All-Computers).
+- [EFI Simplify](https://github.com/lzhoang2801/OpCore-Simplify)
 ---
 
 ## 🙏 Terima kasih kepada
 
 - Tim OpenCore  
 - Komunitas Hackintosh Indonesia  
-- Dokumentasi Dortania  
+- Dokumentasi Dortania
+- Yusufklncc
+- Izhoang2801
 
 ---
 
