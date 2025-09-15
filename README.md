@@ -57,6 +57,7 @@ Jika tidak, iGPU akan terdeteksi hanya 5MB yang menyebabkan grafis bermasalah.
 - Folder Ventura-Build berisi varian untuk seri tertentu, cek dokumentasi dalam folder.  
 - Gunakan ProperTree untuk modifikasi `config.plist` jika perlu.  
 - Selalu backup EFI sebelum melakukan perubahan.
+------
 
 ---
 
