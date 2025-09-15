@@ -32,11 +32,11 @@ Jika tidak, iGPU akan terdeteksi hanya 5MB yang menyebabkan grafis bermasalah.
 
 ## 💻 Spesifikasi yang Didukung
 
-- Laptop: Lenovo ThinkPad T440P
-- CPU: Intel Haswell (Core i5/i7 4th Gen)
-- iGPU: Intel HD Graphics 4600
-- Audio: Realtek ALC292
-- Wi-Fi: Ganti ke kartu kompatibel (misal DW1560 atau BCM94360)
+- Laptop: Lenovo ThinkPad T440P.
+- CPU: Intel Haswell (Core i5/i7 4th Gen).
+- iGPU: Intel HD Graphics 4600.
+- Audio: Realtek ALC292.
+- Wi-Fi: Ganti ke kartu kompatibel (misal DW1560 atau BCM94360).
 
 ---
 
