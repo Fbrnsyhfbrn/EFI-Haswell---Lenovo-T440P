@@ -42,13 +42,12 @@ Jika tidak, iGPU akan terdeteksi hanya 5MB yang menyebabkan grafis bermasalah.
 
 ## ⚙️ Fitur Yang Berfungsi
 
-- Audio  
-- Wi-Fi (dengan kartu kompatibel)  
-- iGPU Acceleration (setelah patch OCLP untuk Ventura)  
-- Battery status  
-- Trackpad  
-- Brightness  
-- Sleep/Wake  
+- Audio.  
+- Wi-Fi (dengan kartu kompatibel).  
+- iGPU Acceleration (setelah patch OCLP untuk Ventura).  
+- Battery status.  
+- Brightness.  
+- Sleep/Wake.  
 
 ---
 
